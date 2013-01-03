@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Demo30smslistener"
+  id="myeclipse.1345359016813"
+  context-root="/sms"
+  j2ee-spec="5.0"
+  archive="Demo30smslistener.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

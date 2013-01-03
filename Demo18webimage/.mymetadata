@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Demo18webimage"
+  id="myeclipse.1344285059885"
+  context-root="/webimage"
+  j2ee-spec="5.0"
+  archive="Demo18webimage.war">
+  <attributes>
+    <attribute name="webrootdir" value="/WebRoot" />
+  </attributes>
+</project-module>
+

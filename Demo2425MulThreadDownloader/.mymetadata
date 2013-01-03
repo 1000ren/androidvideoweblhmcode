@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Demo2425MulThreadDownloader"
+  id="myeclipse.1345149770829"
+  context-root="/Mulse"
+  j2ee-spec="5.0"
+  archive="Demo2425MulThreadDownloader.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

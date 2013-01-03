@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Demo17videonews"
+  id="myeclipse.1344171150356"
+  context-root="/videonewsjson"
+  j2ee-spec="5.0"
+  archive="Demo17videonews.war">
+  <attributes>
+    <attribute name="webrootdir" value="/WebRoot" />
+  </attributes>
+</project-module>
+
